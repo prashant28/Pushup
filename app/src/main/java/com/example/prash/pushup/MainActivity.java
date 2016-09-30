@@ -11,7 +11,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void uploadOnGitHub(){
+    public void uploadOnGitHub() {
         System.out.println("Project uploaded");
+        int i = 2;
+        int j = 4;
     }
 }
